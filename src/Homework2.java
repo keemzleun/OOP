@@ -1,6 +1,7 @@
 package src;
 import java.util.Scanner;
 
+
 class Student {
     private int studentNumber;
     private String name;
